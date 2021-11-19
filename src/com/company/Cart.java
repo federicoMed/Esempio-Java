@@ -40,6 +40,7 @@ public class Cart {
         }
     }
 
+    // ottengo il prezzo totale del carrello
     public float getTotalPrice(){
         float total = 0;
 
